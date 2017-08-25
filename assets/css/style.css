@@ -1,0 +1,100 @@
+body {
+	font-family: "Arial", "Helvetica Nue", Helvetica, sans-serif;
+	color: #777777;
+	margin: 0px;
+	padding: 0px;
+	background: url("file:///Users/torismith/Desktop/homework/basic-portfolio/assets/images/organic-tiles.jpg");
+}
+
+header {
+	text-align: left;
+	margin-left: 150px;
+	padding: 20px;
+
+}
+
+.buttons {
+	padding: 10px;
+	width: 960px;
+	background: white;
+	margin: 0 auto;
+	text-align: right;
+}
+
+h1 {
+	padding: 20px;
+	background: #4aaaa5;
+	color: white;
+	font-family: "Georgia", Times, "Times New Roman, serfif";
+	float: left;
+	width: 20%;
+}
+
+h2 {
+	font-family: "Georgia", Times, "Times New Roman, serfif";
+	color: #4aaaa5;
+	padding: 10px;
+}
+
+h3 {
+	float: right;
+	background: white;
+	padding: 10px;
+}
+
+.container {
+	clear: both;
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+.main-content {
+	width: 650px;
+	font: #4aaaa5;
+	padding: 0px;
+	line-height: 1.5;
+	background: white;
+}
+
+.connnect {
+	width: 270px;
+	background: white;
+	float: left;
+}
+
+#bio-image {
+	width: 200px;
+	height: 150px;
+	float: left;
+	padding: 10px;
+}
+
+.footer {
+	background: #666666;
+	text-align: center;
+	color: #ffffff;
+	font-size: 12px;
+	float: bottom;
+	padding: 20px;
+    border-top: 4px solid;
+    border-color: #4aaaa5;
+}
+
+#GitHub {
+	float: right;
+	width: 40px;
+	height: 40px;
+}
+
+#LinkedIn {
+	float: right;
+	width: 40px;
+	height: 40px;
+}
+
+#Stack {
+	float: right;
+	width: 40px;
+	height: 40px;
+}
