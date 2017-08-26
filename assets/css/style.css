@@ -13,54 +13,75 @@ header {
 
 }
 
-.buttons {
-	padding: 10px;
-	width: 960px;
-	background: white;
-	margin: 0 auto;
-	text-align: right;
-}
-
 h1 {
 	padding: 20px;
 	background: #4aaaa5;
 	color: white;
 	font-family: "Georgia", Times, "Times New Roman, serfif";
 	float: left;
-	width: 20%;
+	width: 19%;
+	text-align: center;
 }
 
 h2 {
 	font-family: "Georgia", Times, "Times New Roman, serfif";
 	color: #4aaaa5;
 	padding: 10px;
-}
-
-h3 {
-	float: right;
-	background: white;
-	padding: 10px;
+	border-bottom: 2px solid;
+    border-color: #666666;
 }
 
 .container {
 	clear: both;
 	width: 960px;
 	margin: 0 auto;
-
 }
 
 .main-content {
 	width: 650px;
 	font: #4aaaa5;
-	padding: 0px;
+	padding: 10px;
 	line-height: 1.5;
 	background: white;
 }
 
-.connnect {
-	width: 270px;
+.connect {
 	background: white;
-	float: left;
+	width: 270px;
+	float: right;
+}
+
+h3 {
+	font-family: "Georgia", Times, "Times New Roman, serfif";
+	color: #4aaaa5;
+	padding: 10px;
+	background: white;
+	width: 270px;
+	float: right;
+	text-align: center;
+}
+
+.buttons {
+	padding: 10px;
+	background: white;
+	margin: 0 auto;
+	text-align: right;
+}	
+
+
+#GitHub {
+	width: 40px;
+	height: 40px;
+}
+
+#LinkedIn {
+	width: 40px;
+	height: 40px;
+}
+
+#Stack {
+	width: 40px;
+	height: 40px;
 }
 
 #bio-image {
@@ -81,20 +102,3 @@ h3 {
     border-color: #4aaaa5;
 }
 
-#GitHub {
-	float: right;
-	width: 40px;
-	height: 40px;
-}
-
-#LinkedIn {
-	float: right;
-	width: 40px;
-	height: 40px;
-}
-
-#Stack {
-	float: right;
-	width: 40px;
-	height: 40px;
-}
