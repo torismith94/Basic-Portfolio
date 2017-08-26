@@ -101,3 +101,11 @@ h3 {
     border-color: #4aaaa5;
 }
 
+#hangman {
+	float: left;
+}
+
+#RPG-Game {
+	float: right;
+}
+
